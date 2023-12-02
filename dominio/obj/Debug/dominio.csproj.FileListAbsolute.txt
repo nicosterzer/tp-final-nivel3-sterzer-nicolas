@@ -1,0 +1,18 @@
+D:\Downloads\ejemplos-ado-net-main\dominio\bin\Debug\dominio.dll
+D:\Downloads\ejemplos-ado-net-main\dominio\bin\Debug\dominio.pdb
+D:\Downloads\ejemplos-ado-net-main\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\Downloads\ejemplos-ado-net-main\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\Downloads\ejemplos-ado-net-main\dominio\obj\Debug\dominio.dll
+D:\Downloads\ejemplos-ado-net-main\dominio\obj\Debug\dominio.pdb
+D:\Dev\Curso MaxiPrograma\PokeWeb\dominio\bin\Debug\dominio.dll
+D:\Dev\Curso MaxiPrograma\PokeWeb\dominio\bin\Debug\dominio.pdb
+D:\Dev\Curso MaxiPrograma\PokeWeb\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\Dev\Curso MaxiPrograma\PokeWeb\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\Dev\Curso MaxiPrograma\PokeWeb\dominio\obj\Debug\dominio.dll
+D:\Dev\Curso MaxiPrograma\PokeWeb\dominio\obj\Debug\dominio.pdb
+D:\Dev\ECommerce\dominio\bin\Debug\dominio.dll
+D:\Dev\ECommerce\dominio\bin\Debug\dominio.pdb
+D:\Dev\ECommerce\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\Dev\ECommerce\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\Dev\ECommerce\dominio\obj\Debug\dominio.dll
+D:\Dev\ECommerce\dominio\obj\Debug\dominio.pdb

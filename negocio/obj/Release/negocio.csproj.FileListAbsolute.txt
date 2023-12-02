@@ -1,0 +1,9 @@
+D:\Dev\ECommerce\negocio\bin\Release\negocio.dll
+D:\Dev\ECommerce\negocio\bin\Release\negocio.pdb
+D:\Dev\ECommerce\negocio\bin\Release\dominio.dll
+D:\Dev\ECommerce\negocio\bin\Release\dominio.pdb
+D:\Dev\ECommerce\negocio\obj\Release\negocio.csproj.AssemblyReference.cache
+D:\Dev\ECommerce\negocio\obj\Release\negocio.csproj.CoreCompileInputs.cache
+D:\Dev\ECommerce\negocio\obj\Release\negocio.csproj.CopyComplete
+D:\Dev\ECommerce\negocio\obj\Release\negocio.dll
+D:\Dev\ECommerce\negocio\obj\Release\negocio.pdb
